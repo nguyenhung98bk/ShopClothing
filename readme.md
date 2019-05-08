@@ -4,7 +4,7 @@
 ## Liên kết:
 * Liên kết đề bài: https://www.lucidchart.com/pages/templates/wireframe/ecommerce-wireframe-template
 * Liên kết học liệu: http://tutorials.codebar.io
-* Liên kết bài làm online:
+* Liên kết bài làm online: https://nguyenhung98bk.github.io/Shopclothing/ShopClothing.html
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có:
 ## Kiến thức nắm được:
