@@ -11,6 +11,7 @@
 * Các kiến thức cơ bản về html, css
 * Cách thiết kế giao diện cơ bản.
 
-## Todo: áp dụng thêm Media Queries để hiển thị trang web đẹp nhất có thể trên nhiều thiết bị và kích cỡ màn hình khác nhau.
+## Todo: 
+áp dụng thêm Media Queries để hiển thị trang web đẹp nhất có thể trên nhiều thiết bị và kích cỡ màn hình khác nhau.
 
 ## Credit:
